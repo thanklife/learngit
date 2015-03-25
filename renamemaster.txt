@@ -12,3 +12,8 @@ by fan
 在branch develop下增加的一行编辑内容
 又在branch2fromMaster里面增加一行编辑。
 
+
+在branch3fromdevelop。里面继续增加编辑行，而且先不删除这个分支试试看。
+在branch3fromdevelop。里面继续增加编辑行，而且先不删除这个分支试试看。
+在branch3fromdevelop。里面继续增加编辑行，而且先不删除这个分支试试看。
+
