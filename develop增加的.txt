@@ -12,3 +12,4 @@ branch3fromdevelop增加。
 在branch3fromdevelop。里面继续增加编辑行，而且先不删除这个分支试试看。
 在branch3fromdevelop。里面继续增加编辑行，而且先不删除这个分支试试看。
 在branch3fromdevelop。里面继续增加编辑行，而且先不删除这个分支试试看。
+develop分支下编辑。develop分支下编辑。develop分支下编辑。
