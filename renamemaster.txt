@@ -12,3 +12,4 @@ by fan
 在branch develop下增加的一行编辑内容
 又在branch2fromMaster里面增加一行编辑。
 
+测试修复bug的分支在branch4fromdevelop生成进行的增加的编辑行。
