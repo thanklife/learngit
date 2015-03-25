@@ -13,3 +13,6 @@ by fan
 又在branch2fromMaster里面增加一行编辑。
 
 测试修复bug的分支在branch4fromdevelop生成进行的增加的编辑行。
+
+
+在branch3fromdevelop里面继续编辑原来最早的文件。
